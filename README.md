@@ -241,7 +241,13 @@ Correlation analysis was used to examine the relationship between crude oil pric
 ## 📂 Project Structure
 
 ```text
-CPI-Inflation-Analysis
+cpi-inflation-analysis-excel/
 │
 ├── CPI_Inflation_Analysis.xlsx
-└── README.md
+├── README.md
+│
+└── screenshots/
+    ├── CPI_Dashboard_screenshot.png
+    ├── yoy-inflation-analysis.png
+    ├── covid-impact-analysis.png
+    └── crude-oil-correlation.png
