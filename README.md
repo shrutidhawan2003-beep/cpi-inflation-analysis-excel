@@ -176,33 +176,19 @@ The crude oil analysis identified a **strong positive relationship** between cru
 
 ### 📊 CPI Analysis Dashboard
 
-![CPI Dashboard](screenshots/CPI_Dashboard_screenshot.png)
-
-The dashboard provides a high-level view of CPI contribution, inflation trends, MoM changes, COVID-19 impact, and crude oil relationships.
-
----
+![CPI Dashboard](./screenshots/CPI_Dashboard_screenshot.png)
 
 ### 📈 YoY Inflation Analysis
 
-![YoY Inflation Analysis](screenshots/yoy-inflation-analysis.png.png)
-
-This analysis compares year-over-year inflation and investigates the categories contributing to higher inflation levels.
-
----
+![YoY Inflation Analysis](./screenshots/yoy-inflation-analysis.png)
 
 ### 🦠 COVID-19 Impact Analysis
 
-![COVID-19 Impact Analysis](screenshots/covid-impact-analysis.png.png)
-
-The analysis compares inflation behavior across Rural, Urban, and Rural + Urban sectors before and after the COVID-19 period.
-
----
+![COVID-19 Impact Analysis](./screenshots/covid-impact-analysis.png)
 
 ### 🛢️ Crude Oil & CPI Correlation
 
-![Crude Oil Correlation](screenshots/crude-oil-correlation.png.png)
-
-Correlation analysis was used to examine the relationship between crude oil prices and selected CPI categories.
+![Crude Oil Correlation](./screenshots/crude-oil-correlation.png)
 
 ## 🛠️ Tools & Skills Demonstrated
 
